@@ -1,0 +1,18 @@
+
+.Menu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    background-color: #f0f0f0;
+    height: 100vh;
+    width: 200px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.Menu_button {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}

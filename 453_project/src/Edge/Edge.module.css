@@ -1,0 +1,15 @@
+.edge {
+    position: absolute;
+    transform-origin: 0 0;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.edge:hover {
+    background-color: darkgray;
+}
+
+.arrowhead {
+    width: 1;
+    height: 1;
+}
